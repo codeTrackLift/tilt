@@ -1,18 +1,6 @@
 # Tilting Card | UI Experiment
 
-This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/).  Built with only HTML and CSS.  This was one of my submissions to the Forbes UI Showcase.  
-
-> Features:
- <ol>
-    <li>Tilting Card</li>
-    <li>Responsive Animations</li>
- </ol>
-
-> Skills Utilized:
- <ol>
-    <li>HTML and CSS</li>
-    <li>Mobile First and Responsive Design</li>
- </ol>
+This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/).  Built with only HTML and CSS, this was one of my submissions to the Forbes UI Showcase.  
 
 ## About
 
