@@ -9,14 +9,14 @@ body {
 h1 {
   color: ghostwhite;
   font-size: 3rem;
-  transform: translateY(12rem);
+  transform: translateY(11rem);
 }
 
 p {
   color: ghostwhite;
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
-  transform: translateY(9rem);
+  transform: translateY(-0.5rem);
   white-space: nowrap;
 }
 
@@ -50,7 +50,9 @@ a:hover{
   grid-template-columns: repeat(3, 1fr);
   grid-template-rows: repeat(3, 1fr);
   position: relative;
+  
   border-radius: 2px;
+  margin: 0 5vw;
 }
 
 .tilting-card-content {
@@ -62,13 +64,14 @@ a:hover{
   grid-column: 1 / -1;
   grid-row: 1 / -1;
 
-  aspect-ratio: 1 / 2;
+  aspect-ratio: 1 / 1.5;
   border-radius: 2px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   display: grid;
   align-items: flex-end;
-  padding: 10rem;
   text-align: center;
+  width: 20rem;
+  max-width: 90vw;
 
   background-image: url('./image.jpg');
   background-position: 59%;
@@ -81,12 +84,9 @@ a:hover{
     rotateY(var(--rotateY));
 }
 
-@media (max-width: 575px) {
+@media (max-width: 350px) {
   h1 {
-    transform: translateX(-2rem) translateY(12rem);
-  }
-  p {
-    transform: translateX(-2rem) translateY(9.5rem);
+    transform: translateY(8rem);
   }
 }
 
