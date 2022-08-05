@@ -1,4 +1,5 @@
 import '../styles/Tilt.css';
+import '../styles/typography.css';
 
 function Tilt({contentStyle}) {
 
@@ -16,7 +17,7 @@ function Tilt({contentStyle}) {
       {positionTracker(9)}
       <div className="tilt-content" style={contentStyle}>
         <h1>Tilt</h1>
-        <p>hover <span>|</span> touch</p>
+        <p id='subText'>hover <span>|</span> touch</p>
       </div>
     </div>
     </>

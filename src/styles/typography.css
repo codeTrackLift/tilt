@@ -1,0 +1,28 @@
+h1 {
+  color: white;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 3rem;
+  text-shadow: 2px 2px 2px black;
+  transform: translateY(11rem);
+}
+
+@media (max-width: 350px) {
+  h1 {
+    transform: translateY(9rem);
+  }
+}
+
+#subText {
+  color: silver;
+  font-size: medium;
+  text-shadow: 1px 1px 1px black;
+  transform: translateY(-0.5rem);
+  white-space: nowrap;
+}
+
+span {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bolder;
+  text-shadow: 2px 2px 2px black;
+}

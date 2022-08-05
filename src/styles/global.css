@@ -1,0 +1,25 @@
+body {
+  display: grid;
+  background-color: ghostwhite;
+  font-family: Arial, Helvetica, sans-serif;
+  place-content: center;
+  transform: translateY(2rem);
+}
+
+#qrCode {
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  display: block;
+  margin: 5rem auto 0 auto;
+  transition: transform 0.25s ease-out;
+  width: 5rem;
+}
+
+@media (max-width: 900px) {
+  #qrCode {
+    display: none;
+  }
+}
+
+#qrCode:hover {
+  transform: translateY(-1rem);
+}
