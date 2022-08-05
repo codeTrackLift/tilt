@@ -17,6 +17,7 @@ p {
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
   transform: translateY(9rem);
+  white-space: nowrap;
 }
 
 a {
@@ -78,6 +79,15 @@ a:hover{
     perspective(var(--perspective))
     rotateX(var(--rotateX))
     rotateY(var(--rotateY));
+}
+
+@media (max-width: 575px) {
+  h1 {
+    transform: translateX(-2rem) translateY(12rem);
+  }
+  p {
+    transform: translateX(-2rem) translateY(9.5rem);
+  }
 }
 
 .mouse-position-tracker {
