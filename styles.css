@@ -8,6 +8,12 @@ body {
 
 h1 {
   color: ghostwhite;
+  margin-bottom: -3rem;
+}
+
+h1>span {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
 }
 
 .footer {
@@ -61,7 +67,7 @@ a:hover{
   border-radius: 2px;
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   display: grid;
-  place-content: top;
+  align-items: flex-end;
   padding: 5rem;
   text-align: center;
 
