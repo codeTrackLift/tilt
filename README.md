@@ -1,10 +1,28 @@
 # Tilt | UI Experiment
 
-This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/).  Built with only HTML and CSS, this was one of my submissions to the Forbes UI Showcase.  
+This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/) and was one of my submissions to the Forbes UI Showcase.
+
+Originally inspired by a CSS tutorial, this was refactored as a reusable component for easy integration into React projects.
+
+> Features:
+ <ol>
+    <li>Hover and Touch Responsive</li>
+    <li>Adjustable Tilt Angles</li>
+ </ol>
+
+> Skills Utilized:
+ <ol>
+    <li>HTML, CSS, JavaScript</li>
+    <li>React 18, Framer-Motion</li>
+    <li>useState, useEffect</li>
+    <li>Mobile First and Responsive Design</li>
+ </ol>
+
+ <img src='./src/assets/qr-code.png' alt='QR code' width='90'> 
 
 ## About
 
-Thank you for checking out my UI Experiment.  Tilt was inspired by [this tutorial](https://youtu.be/eOJTj_mWJds), thank you Kevin!  You are amazing!
+Thank you for checking out my UI Experiment.  Tilt was inspired by this [css tutorial](https://youtu.be/eOJTj_mWJds), thank you Kevin, you are amazing!
 
 - See this [blog article](https://www.codebypete.com/pages/blog.html#blog13Button) for more details about contributing to the UI Showcase.
 
