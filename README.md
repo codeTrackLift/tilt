@@ -1,10 +1,10 @@
-# Tilting Card | UI Experiment
+# Tilt | UI Experiment
 
 This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/).  Built with only HTML and CSS, this was one of my submissions to the Forbes UI Showcase.  
 
 ## About
 
-Thank you for checking out my UI Experiment.  
+Thank you for checking out my UI Experiment.  Tilt was inspired by [this tutorial](https://youtu.be/eOJTj_mWJds), thank you Kevin!  You are amazing!
 
 - See this [blog article](https://www.codebypete.com/pages/blog.html#blog13Button) for more details about contributing to the UI Showcase.
 
