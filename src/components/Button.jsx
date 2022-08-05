@@ -5,11 +5,11 @@ import '../styles/Button.css';
 const Button = ({url}) => {
   return (
     <motion.div
-      initial={{ scale: 0, y: -200 }}
-      animate={{ scale: 1, y: 0 }}
-      transition={{ delay: 1.75, duration: 0.25 }}
+      initial={{ rotateY: 90, y: -200 }}
+      animate={{ rotateY: 0, y: 0 }}
+      transition={{ delay: 1.75, duration: 0.25, type: 'spring', stiffness: 250, weight: 750 }}
     >
-      <a href={url} target="_blank" rel='noreferrer'>View Code</a>
+      <a href={url} target='_blank' rel='noreferrer'>View Code</a>
     </motion.div>
   )
 }

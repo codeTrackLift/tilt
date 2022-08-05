@@ -1,4 +1,3 @@
-/* tilt card below */
 .tilt-wrapper {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -26,7 +25,7 @@
   width: 20rem;
   max-width: 90vw;
 
-  background-image: url('../assets/image.jpg');
+  background-image: url('../images/image.jpg');
   background-position: 59%;
   background-size: cover;
 
@@ -64,7 +63,6 @@
 .position-tracker:nth-child(6):hover ~ .tilt-content {
   --rotateY: var(--angle);
 }
-
 
 .position-tracker:nth-child(7):hover ~ .tilt-content {
   --rotateX: calc(var(--angle) * -1);

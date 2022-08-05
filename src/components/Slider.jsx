@@ -3,7 +3,7 @@ import { motion } from 'framer-motion';
 import '../styles/Slider.css';
 
 const spanStyle = {
-  color: 'black',
+  color: '#181716',
   fontSize: '1rem',
   textShadow: 'none',
   transform: 'translateY(.125rem)',

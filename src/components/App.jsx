@@ -1,4 +1,4 @@
-import {useState, useEffect } from 'react'
+import { useState, useEffect } from 'react'
 import { motion } from 'framer-motion';
 import Slider from './Slider';
 import Tilt from './Tilt';
@@ -8,9 +8,7 @@ import QrCode from './QrCode';
 
 const App = () => {
   const [tilt, setTilt] = useState(12);
-  const [contentStyle, setContentStyle] = useState({
-    '--angle': tilt,
-  })
+  const [contentStyle, setContentStyle] = useState({'--angle': tilt})
 
   useEffect(() => {
     const style = {'--angle': tilt + 'deg'};

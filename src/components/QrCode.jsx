@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import qrCode from '../assets/qr-code.png';
+import qrCode from '../images/qr-code.png';
 
 const QrCode = () => {
   return (
