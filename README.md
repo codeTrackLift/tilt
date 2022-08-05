@@ -6,7 +6,7 @@ Originally inspired by a CSS tutorial, this was refactored as a reusable compone
 
 > Features:
  <ol>
-    <li>Hover and Touch Responsive</li>
+    <li>Hover and Touch Tilt Response</li>
     <li>Adjustable Tilt Angles</li>
  </ol>
 
