@@ -3,22 +3,19 @@ body {
   background-color: ghostwhite;
   font-family: 'Times New Roman', Times, serif;
   place-content: center;
-  min-height: 100vh;
+  transform: translateY(2rem);
 }
 
 h1 {
   color: ghostwhite;
-  margin-bottom: -3rem;
+  transform: translateY(12rem);
 }
 
-h1>span {
+p {
+  color: ghostwhite;
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
-}
-
-.footer {
-  display: flex;
-  justify-content: center;
+  transform: translateY(5rem);
 }
 
 a {
@@ -86,8 +83,6 @@ a:hover{
   position: absolute;
   inset: 0;
   z-index: 2;
-  opacity: 0.2;
-  /* outline: 3px solid black; */
 }
 
 .mouse-position-tracker:nth-child(1):hover ~ .tilting-card-content {
