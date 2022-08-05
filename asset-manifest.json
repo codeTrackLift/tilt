@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/codetracklift.github.io/tilt/static/css/main.79980bba.css",
-    "main.js": "/codetracklift.github.io/tilt/static/js/main.835b22eb.js",
-    "static/media/image.jpg": "/codetracklift.github.io/tilt/static/media/image.089b9dfac88f6d4ff4fa.jpg",
-    "index.html": "/codetracklift.github.io/tilt/index.html",
-    "main.79980bba.css.map": "/codetracklift.github.io/tilt/static/css/main.79980bba.css.map",
-    "main.835b22eb.js.map": "/codetracklift.github.io/tilt/static/js/main.835b22eb.js.map"
+    "main.css": "/tilt/static/css/main.b83dda59.css",
+    "main.js": "/tilt/static/js/main.835b22eb.js",
+    "static/media/image.jpg": "/tilt/static/media/image.089b9dfac88f6d4ff4fa.jpg",
+    "index.html": "/tilt/index.html",
+    "main.b83dda59.css.map": "/tilt/static/css/main.b83dda59.css.map",
+    "main.835b22eb.js.map": "/tilt/static/js/main.835b22eb.js.map"
   },
   "entrypoints": [
-    "static/css/main.79980bba.css",
+    "static/css/main.b83dda59.css",
     "static/js/main.835b22eb.js"
   ]
 }
