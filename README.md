@@ -6,14 +6,14 @@ Originally inspired by a CSS tutorial, this was refactored as a reusable compone
 
 > Features:
  <ol>
-    <li>Hover and Touch Tilt Response</li>
+    <li>Hover and Touch Effects</li>
     <li>Adjustable Tilt Angles</li>
  </ol>
 
 > Skills Utilized:
  <ol>
     <li>HTML, CSS, JavaScript</li>
-    <li>React 18, Framer-Motion</li>
+    <li>React.js, Framer-Motion</li>
     <li>useState, useEffect</li>
     <li>Mobile First and Responsive Design</li>
  </ol>

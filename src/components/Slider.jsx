@@ -25,7 +25,7 @@ const Slider = ({tilt, setTilt}) => {
         <input
           id='slider'
           min='5'
-          max='90'
+          max='85'
           step='1'
           type='range'
           value={tilt}
