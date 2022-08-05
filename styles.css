@@ -8,6 +8,7 @@ body {
 
 h1 {
   color: ghostwhite;
+  font-size: 3rem;
   transform: translateY(12rem);
 }
 
@@ -15,7 +16,7 @@ p {
   color: ghostwhite;
   font-family: Arial, Helvetica, sans-serif;
   font-size: medium;
-  transform: translateY(5rem);
+  transform: translateY(9rem);
 }
 
 a {
@@ -65,7 +66,7 @@ a:hover{
   box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
   display: grid;
   align-items: flex-end;
-  padding: 5rem;
+  padding: 10rem;
   text-align: center;
 
   background-image: url('./image.jpg');
