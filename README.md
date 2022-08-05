@@ -8,7 +8,7 @@ Originally inspired by a CSS tutorial, this was refactored as a reusable compone
  <ol>
     <li>Hover and Touch Effects</li>
     <li>Adjustable Tilt Angles</li>
-    <li>React Animation</li>
+    <li>React Animations</li>
  </ol>
 
 > Skills Utilized:
