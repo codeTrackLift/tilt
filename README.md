@@ -18,7 +18,7 @@ Originally inspired by a CSS tutorial, this was refactored as a reusable compone
     <li>Mobile First and Responsive Design</li>
  </ol>
 
- <img src='./src/assets/qr-code.png' alt='QR code' width='90'> 
+ <img src='./src/images/qr-code.png' alt='QR code' width='90'> 
 
 ## About
 
