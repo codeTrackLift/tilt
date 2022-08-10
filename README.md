@@ -2,7 +2,9 @@
 
 This "mini-project" was developed during my [Forbes Media Internship](https://www.linkedin.com/posts/codebypete_webdevelopment-mernstackdeveloper-activity-6931971649504198656-hdBr/) and was one of my submissions to the Forbes UI Showcase.
 
-Originally inspired by a CSS tutorial, this was refactored as a reusable component for easy integration into React projects.
+Originally inspired by a CSS tutorial, this was refactored as a reusable component for easy integration into React projects. 
+
+Video: [https://youtu.be/dMUo_LlRk6g](https://youtu.be/dMUo_LlRk6g)
 
 > Features:
  <ol>
