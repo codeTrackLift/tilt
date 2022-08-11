@@ -4,7 +4,7 @@ This "mini-project" was developed during my [Forbes Media Internship](https://ww
 
 Originally inspired by a CSS tutorial, this was refactored as a reusable component for easy integration into React projects. 
 
-Video: [https://youtu.be/dMUo_LlRk6g](https://youtu.be/dMUo_LlRk6g)
+Video: [https://youtu.be/KSqfz7MXO4E](https://youtu.be/KSqfz7MXO4E)
 
 > Features:
  <ol>
